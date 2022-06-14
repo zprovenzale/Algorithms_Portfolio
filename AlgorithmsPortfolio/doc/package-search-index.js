@@ -1,0 +1,1 @@
+packageSearchIndex = [{"m":"algorithmsPortfolio","l":"algorithmsPortfolio"},{"l":"All Packages","url":"allpackages-index.html"}]
